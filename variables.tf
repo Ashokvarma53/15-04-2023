@@ -63,4 +63,4 @@ variable "external_ip" {
    type        = string
    default     = "Dynamic"
  }
-##added lines
+
